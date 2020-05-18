@@ -11,6 +11,7 @@ __Note__: 2.5.0 was "pulled" due to a breaking bug discovered after release. It 
 * Change JSON keys to have a different font color than their values
 * Disable asset hashing for woff and woff2 elements due to middleman bug breaking woff2 asset hashing in general
 * Move Dockerfile to Debian from Alpine
+* Converted repo to a [GitHub template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-template-repository)
 
 ## Version 2.5.0
 
