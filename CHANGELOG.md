@@ -1,5 +1,17 @@
 # Changelog
 
+## Version 2.5.1
+
+*May 18, 2020*
+
+__Note__: 2.5.0 was "pulled" due to a breaking bug discovered after release. It is recommended to skip it to 2.5.1
+
+* Fix large whitespace gap in middle column for sections with codeblocks
+* Fix highlighted code elements having a different background than rest of code block
+* Change JSON keys to have a different font color than their values
+* Disable asset hashing for woff and woff2 elements due to middleman bug breaking woff2 asset hashing in general
+* Move Dockerfile to Debian from Alpine
+
 ## Version 2.5.0
 
 *May 8, 2020*
