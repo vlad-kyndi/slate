@@ -1,10 +1,10 @@
 # Changelog
 
-## Version 2.5.1
+## Version 2.6.0
 
 *May 18, 2020*
 
-__Note__: 2.5.0 was "pulled" due to a breaking bug discovered after release. It is recommended to skip it to 2.5.1
+__Note__: 2.5.0 was "pulled" due to a breaking bug discovered after release. It is recommended to skip it, and move straight to 2.6.0.
 
 * Fix large whitespace gap in middle column for sections with codeblocks
 * Fix highlighted code elements having a different background than rest of code block
